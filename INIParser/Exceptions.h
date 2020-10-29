@@ -29,4 +29,3 @@ public:
 
 	}
 };
-#pragma once
