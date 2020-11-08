@@ -1,0 +1,33 @@
+﻿  Product.cpp
+  Shop.cpp
+  Shops.cpp
+C:\Users\май\source\repos\Shops\Shops\Shop.cpp(85,14): warning C4244: инициализация: преобразование "_Ty2" в "int", возможна потеря данных
+C:\Users\май\source\repos\Shops\Shops\Shop.cpp(85,14): warning C4244:         with
+C:\Users\май\source\repos\Shops\Shops\Shop.cpp(85,14): warning C4244:         [
+C:\Users\май\source\repos\Shops\Shops\Shop.cpp(85,14): warning C4244:             _Ty2=float
+C:\Users\май\source\repos\Shops\Shops\Shop.cpp(85,14): warning C4244:         ]
+  ShopsNet.cpp
+C:\Users\май\source\repos\Shops\Shops\Shops.cpp(30,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(121,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(148,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(165,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(184,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(194,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(196,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(210,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(222,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(232,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(22): warning C4715: ShopsNet::GetPKey: значение возвращается не при всех путях выполнения
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(33): warning C4715: ShopsNet::GetSName: значение возвращается не при всех путях выполнения
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(12): warning C4715: ShopsNet::GetSKey: значение возвращается не при всех путях выполнения
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(43): warning C4715: ShopsNet::GetPName: значение возвращается не при всех путях выполнения
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(189): warning C4715: ShopsNet::FixSumm: значение возвращается не при всех путях выполнения
+C:\Users\май\source\repos\Shops\Shops\ShopsNet.cpp(205): warning C4715: ShopsNet::BuyBanch: значение возвращается не при всех путях выполнения
+  LINK : эх эрщфхэ шыш эх т√яюыэхэр ёсюЁър C:\Users\ьрщ\source\repos\Shops\Debug\Main.exe яЁш яюёыхфэхщ шэъЁхьхэЄэющ ъюьяюэютъх; т√яюыэ хЄё  яюыэр  ъюьяюэютър
+  Shops.vcxproj -> C:\Users\май\source\repos\Shops\Debug\Main.exe
